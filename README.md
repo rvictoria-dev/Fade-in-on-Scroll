@@ -28,8 +28,4 @@
 
 ### 🎬 Preview
 
-
-
-
-https://github.com/user-attachments/assets/6e963e6a-8113-482b-8e24-43b31a4610cd
-
+https://github.com/user-attachments/assets/0a1f68dc-2dff-4752-a009-07b99f0a58df
