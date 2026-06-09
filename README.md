@@ -6,6 +6,25 @@
 
 ---
 
+### 📁 Project structure
+```
+fade-in-on-scroll/
+├── index.html
+├── script.js
+├── style.css
+└── README.md
+```
+
+---
+
+### 🛠️ Built With
+
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
 ### 💡 What i learned
 
 - How **JavaScript and CSS** work together, with JavaScript controlling when animations happen and CSS handling the visual effects.
@@ -15,14 +34,6 @@
 - What an observer is and how ``unobserve()`` can stop tracking elements after their animation has been triggered.
 - How the ``threshold`` property determines how much of an element must be visible before the observer activates.
 - How to create smooth and efficient scroll animations without using continuous scroll event listeners.
-
----
-
-### 🛠️ Built With
-
-- HTML5
-- CSS3
-- JavaScript
 
 ---
 
